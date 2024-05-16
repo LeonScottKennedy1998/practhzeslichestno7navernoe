@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|d:\\client\\viewmodel\\authviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|solutionrelative:viewmodel\\authviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|d:\\client\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|solutionrelative:model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|d:\\client\\view\\clientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|solutionrelative:view\\clientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|d:\\client\\view\\clientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|solutionrelative:view\\clientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|d:\\client\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|solutionrelative:view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|d:\\client\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|solutionrelative:view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|d:\\client\\view\\serverwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|solutionrelative:view\\serverwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|d:\\client\\view\\serverwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|solutionrelative:view\\serverwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|d:\\client\\viewmodel\\helpers\\bindablecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|solutionrelative:viewmodel\\helpers\\bindablecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|d:\\client\\viewmodel\\helpers\\bindinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|solutionrelative:viewmodel\\helpers\\bindinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|d:\\client\\viewmodel\\tcpserverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|solutionrelative:viewmodel\\tcpserverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|d:\\client\\viewmodel\\tcpclientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|solutionrelative:viewmodel\\tcpclientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|d:\\client\\client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|solutionrelative:client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\Client\\Model\\TcpServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\Client\\Model\\TcpClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServerWindow.xaml",
+              "DocumentMoniker": "D:\\Client\\View\\ServerWindow.xaml",
+              "RelativeDocumentMoniker": "View\\ServerWindow.xaml",
+              "ToolTip": "D:\\Client\\View\\ServerWindow.xaml",
+              "RelativeToolTip": "View\\ServerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T17:54:24.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Client\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Client\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "View\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:54:24.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Client\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "View\\MainWindow.xaml",
+              "ToolTip": "D:\\Client\\View\\MainWindow.xaml",
+              "RelativeToolTip": "View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T17:54:24.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Client\\View\\ClientWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\ClientWindow.xaml.cs",
+              "ToolTip": "D:\\Client\\View\\ClientWindow.xaml.cs",
+              "RelativeToolTip": "View\\ClientWindow.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:54:24.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientWindow.xaml",
+              "DocumentMoniker": "D:\\Client\\View\\ClientWindow.xaml",
+              "RelativeDocumentMoniker": "View\\ClientWindow.xaml",
+              "ToolTip": "D:\\Client\\View\\ClientWindow.xaml",
+              "RelativeToolTip": "View\\ClientWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T17:54:24.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Client\\Model\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Model\\LoginModel.cs",
+              "ToolTip": "D:\\Client\\Model\\LoginModel.cs",
+              "RelativeToolTip": "Model\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:20:43.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthViewModel.cs",
+              "DocumentMoniker": "D:\\Client\\ViewModel\\AuthViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\AuthViewModel.cs",
+              "ToolTip": "D:\\Client\\ViewModel\\AuthViewModel.cs",
+              "RelativeToolTip": "ViewModel\\AuthViewModel.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAQwGkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:20:50.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServerWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Client\\View\\ServerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\ServerWindow.xaml.cs",
+              "ToolTip": "D:\\Client\\View\\ServerWindow.xaml.cs",
+              "RelativeToolTip": "View\\ServerWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:54:24.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BindableCommand.cs",
+              "DocumentMoniker": "D:\\Client\\ViewModel\\Helpers\\BindableCommand.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Helpers\\BindableCommand.cs",
+              "ToolTip": "D:\\Client\\ViewModel\\Helpers\\BindableCommand.cs",
+              "RelativeToolTip": "ViewModel\\Helpers\\BindableCommand.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:47:31.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BindingHelper.cs",
+              "DocumentMoniker": "D:\\Client\\ViewModel\\Helpers\\BindingHelper.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Helpers\\BindingHelper.cs",
+              "ToolTip": "D:\\Client\\ViewModel\\Helpers\\BindingHelper.cs",
+              "RelativeToolTip": "ViewModel\\Helpers\\BindingHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:48:04.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TcpServerViewModel.cs",
+              "DocumentMoniker": "D:\\Client\\ViewModel\\TcpServerViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\TcpServerViewModel.cs",
+              "ToolTip": "D:\\Client\\ViewModel\\TcpServerViewModel.cs",
+              "RelativeToolTip": "ViewModel\\TcpServerViewModel.cs",
+              "ViewState": "AQIAAPUAAAAAAAAAAAAAwCsBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:54:24.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TcpClientViewModel.cs",
+              "DocumentMoniker": "D:\\Client\\ViewModel\\TcpClientViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\TcpClientViewModel.cs",
+              "ToolTip": "D:\\Client\\ViewModel\\TcpClientViewModel.cs",
+              "RelativeToolTip": "ViewModel\\TcpClientViewModel.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAiwLEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:54:24.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Client",
+              "DocumentMoniker": "D:\\Client\\Client.csproj",
+              "RelativeDocumentMoniker": "Client.csproj",
+              "ToolTip": "D:\\Client\\Client.csproj",
+              "RelativeToolTip": "Client.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T13:39:23.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TcpClient.cs",
+              "DocumentMoniker": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\Client\\Model\\TcpClient.cs",
+              "RelativeDocumentMoniker": "..\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\Client\\Model\\TcpClient.cs",
+              "ToolTip": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\Client\\Model\\TcpClient.cs",
+              "RelativeToolTip": "..\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\Client\\Model\\TcpClient.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T08:57:19.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TcpServer.cs",
+              "DocumentMoniker": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\Client\\Model\\TcpServer.cs",
+              "RelativeDocumentMoniker": "..\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\Client\\Model\\TcpServer.cs",
+              "ToolTip": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\Client\\Model\\TcpServer.cs",
+              "RelativeToolTip": "..\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\wpffuck\\Client\\Model\\TcpServer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T08:57:07.163Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

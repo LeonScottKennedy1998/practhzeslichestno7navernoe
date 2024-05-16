@@ -1,0 +1,120 @@
+C:\Users\PRO\source\repos\Client\bin\Debug\net7.0-windows\Client.exe
+C:\Users\PRO\source\repos\Client\bin\Debug\net7.0-windows\Client.deps.json
+C:\Users\PRO\source\repos\Client\bin\Debug\net7.0-windows\Client.runtimeconfig.json
+C:\Users\PRO\source\repos\Client\bin\Debug\net7.0-windows\Client.dll
+C:\Users\PRO\source\repos\Client\bin\Debug\net7.0-windows\Client.pdb
+C:\Users\PRO\source\repos\Client\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\PRO\source\repos\Client\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\PRO\source\repos\Client\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\Client_MarkupCompile.cache
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\Client_MarkupCompile.lref
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\App.baml
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\Client.g.resources
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\Client.AssemblyInfo.cs
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\Client.csproj.CopyComplete
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\Client.dll
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\refint\Client.dll
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\Client.pdb
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\Client.genruntimeconfig.cache
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\ref\Client.dll
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\View\MainWindow.g.cs
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\View\MainWindow.baml
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\View\ClientWindow.g.cs
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\View\ServerWindow.g.cs
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\View\ClientWindow.baml
+C:\Users\PRO\source\repos\Client\obj\Debug\net7.0-windows\View\ServerWindow.baml
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\bin\Debug\net7.0-windows\Client.exe
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\bin\Debug\net7.0-windows\Client.deps.json
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\bin\Debug\net7.0-windows\Client.runtimeconfig.json
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\bin\Debug\net7.0-windows\Client.dll
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\bin\Debug\net7.0-windows\Client.pdb
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\Client.csproj.AssemblyReference.cache
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\View\ClientWindow.g.cs
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\View\MainWindow.g.cs
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\View\ServerWindow.g.cs
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\App.g.cs
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\Client_MarkupCompile.cache
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\Client_MarkupCompile.lref
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\App.baml
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\View\ClientWindow.baml
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\View\MainWindow.baml
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\View\ServerWindow.baml
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\Client.g.resources
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\Client.AssemblyInfoInputs.cache
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\Client.AssemblyInfo.cs
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\Client.csproj.CoreCompileInputs.cache
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\Client.csproj.Up2Date
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\Client.dll
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\refint\Client.dll
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\Client.pdb
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\Client.genruntimeconfig.cache
+D:\Project MPT\Проекты Visual Studio\wpffuck\Client\obj\Debug\net7.0-windows\ref\Client.dll
+C:\Users\PRO\OneDrive\Desktop\Client\bin\Debug\net7.0-windows\Client.exe
+C:\Users\PRO\OneDrive\Desktop\Client\bin\Debug\net7.0-windows\Client.deps.json
+C:\Users\PRO\OneDrive\Desktop\Client\bin\Debug\net7.0-windows\Client.runtimeconfig.json
+C:\Users\PRO\OneDrive\Desktop\Client\bin\Debug\net7.0-windows\Client.dll
+C:\Users\PRO\OneDrive\Desktop\Client\bin\Debug\net7.0-windows\Client.pdb
+C:\Users\PRO\OneDrive\Desktop\Client\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\PRO\OneDrive\Desktop\Client\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\PRO\OneDrive\Desktop\Client\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\View\ClientWindow.g.cs
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\View\MainWindow.g.cs
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\View\ServerWindow.g.cs
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\Client_MarkupCompile.cache
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\Client_MarkupCompile.lref
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\App.baml
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\View\ClientWindow.baml
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\View\MainWindow.baml
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\View\ServerWindow.baml
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\Client.g.resources
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\Client.AssemblyInfo.cs
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\Client.csproj.CopyComplete
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\Client.dll
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\refint\Client.dll
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\Client.pdb
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\Client.genruntimeconfig.cache
+C:\Users\PRO\OneDrive\Desktop\Client\obj\Debug\net7.0-windows\ref\Client.dll
+D:\Client\bin\Debug\net7.0-windows\Client.exe
+D:\Client\bin\Debug\net7.0-windows\Client.deps.json
+D:\Client\bin\Debug\net7.0-windows\Client.runtimeconfig.json
+D:\Client\bin\Debug\net7.0-windows\Client.dll
+D:\Client\bin\Debug\net7.0-windows\Client.pdb
+D:\Client\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+D:\Client\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Client\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Client\obj\Debug\net7.0-windows\Client.csproj.AssemblyReference.cache
+D:\Client\obj\Debug\net7.0-windows\View\ClientWindow.g.cs
+D:\Client\obj\Debug\net7.0-windows\View\MainWindow.g.cs
+D:\Client\obj\Debug\net7.0-windows\View\ServerWindow.g.cs
+D:\Client\obj\Debug\net7.0-windows\App.g.cs
+D:\Client\obj\Debug\net7.0-windows\Client_MarkupCompile.cache
+D:\Client\obj\Debug\net7.0-windows\Client_MarkupCompile.lref
+D:\Client\obj\Debug\net7.0-windows\App.baml
+D:\Client\obj\Debug\net7.0-windows\View\ClientWindow.baml
+D:\Client\obj\Debug\net7.0-windows\View\MainWindow.baml
+D:\Client\obj\Debug\net7.0-windows\View\ServerWindow.baml
+D:\Client\obj\Debug\net7.0-windows\Client.g.resources
+D:\Client\obj\Debug\net7.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Client\obj\Debug\net7.0-windows\Client.AssemblyInfoInputs.cache
+D:\Client\obj\Debug\net7.0-windows\Client.AssemblyInfo.cs
+D:\Client\obj\Debug\net7.0-windows\Client.csproj.CoreCompileInputs.cache
+D:\Client\obj\Debug\net7.0-windows\Client.csproj.Up2Date
+D:\Client\obj\Debug\net7.0-windows\Client.dll
+D:\Client\obj\Debug\net7.0-windows\refint\Client.dll
+D:\Client\obj\Debug\net7.0-windows\Client.pdb
+D:\Client\obj\Debug\net7.0-windows\Client.genruntimeconfig.cache
+D:\Client\obj\Debug\net7.0-windows\ref\Client.dll

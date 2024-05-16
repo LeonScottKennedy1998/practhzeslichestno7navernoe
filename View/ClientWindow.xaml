@@ -1,0 +1,55 @@
+﻿<Window x:Class="Client.View.ClientWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client.View"
+        mc:Ignorable="d"
+               Title="Клиентский чат" Height="450" Width="800" Background="#FFBBAE99" FontFamily="Century Gothic">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <ListBox x:Name="UserList" ItemsSource="{Binding Users}" Grid.Column="0">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding}" TextWrapping="Wrap"/>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+            <ListBox x:Name="Lbx" ItemsSource="{Binding Messages}" Grid.Column="1">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding}" TextWrapping="Wrap"/>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </Grid>
+
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBox x:Name="Tbx" Text="{Binding InputText}" Background="#FFD6CEBF" SelectionBrush="#FFA38760" Foreground="#FF342B20" 
+                     CaretBrush="#FFB8955D" FontSize="24" TextWrapping="Wrap" Padding="10"/>
+            <Button x:Name="But" Command="{Binding SendMessageCommand}" Grid.Column="1" VerticalAlignment="Center" Height="62" 
+                    Background="#FF87775F" BorderBrush="#FF9D6E4F" Content="Отправить" FontSize="24" />
+            <Button x:Name="DisconnectButton" Content="Отключиться" Grid.Column="2" Background="#FF87775F"
+                    BorderBrush="#FF9D6E4F" FontSize="24" FontFamily="Century Gothic"
+                    Command="{Binding DisconnectCommand}" VerticalAlignment="Center" Height="62"/>
+        </Grid>
+    </Grid>
+</Window>
