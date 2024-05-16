@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Client\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|d:\\client\\viewmodel\\tcpserverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|solutionrelative:viewmodel\\tcpserverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|d:\\client\\viewmodel\\authviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|solutionrelative:viewmodel\\authviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|solutionrelative:viewmodel\\helpers\\bindinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|d:\\client\\viewmodel\\tcpserverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|solutionrelative:viewmodel\\tcpserverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|d:\\client\\viewmodel\\tcpclientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8A00EFC-22BF-44BB-96C0-CE181E42F781}|Client.csproj|solutionrelative:viewmodel\\tcpclientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -77,18 +77,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ServerWindow.xaml",
-              "DocumentMoniker": "D:\\Client\\View\\ServerWindow.xaml",
-              "RelativeDocumentMoniker": "View\\ServerWindow.xaml",
-              "ToolTip": "D:\\Client\\View\\ServerWindow.xaml",
-              "RelativeToolTip": "View\\ServerWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-11T17:54:24.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Client\\View\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "View\\MainWindow.xaml.cs",
@@ -96,24 +84,22 @@
               "RelativeToolTip": "View\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T17:54:24.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T17:54:24.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Client\\View\\MainWindow.xaml",
               "RelativeDocumentMoniker": "View\\MainWindow.xaml",
               "ToolTip": "D:\\Client\\View\\MainWindow.xaml",
               "RelativeToolTip": "View\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-11T17:54:24.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T17:54:24.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ClientWindow.xaml.cs",
               "DocumentMoniker": "D:\\Client\\View\\ClientWindow.xaml.cs",
               "RelativeDocumentMoniker": "View\\ClientWindow.xaml.cs",
@@ -121,24 +107,22 @@
               "RelativeToolTip": "View\\ClientWindow.xaml.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAswBMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T17:54:24.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T17:54:24.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ClientWindow.xaml",
               "DocumentMoniker": "D:\\Client\\View\\ClientWindow.xaml",
               "RelativeDocumentMoniker": "View\\ClientWindow.xaml",
               "ToolTip": "D:\\Client\\View\\ClientWindow.xaml",
               "RelativeToolTip": "View\\ClientWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-11T17:54:24.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T17:54:24.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "D:\\Client\\Model\\LoginModel.cs",
               "RelativeDocumentMoniker": "Model\\LoginModel.cs",
@@ -146,25 +130,48 @@
               "RelativeToolTip": "Model\\LoginModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T20:20:43.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T20:20:43.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthViewModel.cs",
               "DocumentMoniker": "D:\\Client\\ViewModel\\AuthViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\AuthViewModel.cs",
               "ToolTip": "D:\\Client\\ViewModel\\AuthViewModel.cs",
               "RelativeToolTip": "ViewModel\\AuthViewModel.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAQwGkAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T20:20:50.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TcpServerViewModel.cs",
+              "DocumentMoniker": "D:\\Client\\ViewModel\\TcpServerViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\TcpServerViewModel.cs",
+              "ToolTip": "D:\\Client\\ViewModel\\TcpServerViewModel.cs",
+              "RelativeToolTip": "ViewModel\\TcpServerViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:54:24.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "ServerWindow.xaml",
+              "DocumentMoniker": "D:\\Client\\View\\ServerWindow.xaml",
+              "RelativeDocumentMoniker": "View\\ServerWindow.xaml",
+              "ToolTip": "D:\\Client\\View\\ServerWindow.xaml",
+              "RelativeToolTip": "View\\ServerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T17:54:24.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ServerWindow.xaml.cs",
               "DocumentMoniker": "D:\\Client\\View\\ServerWindow.xaml.cs",
               "RelativeDocumentMoniker": "View\\ServerWindow.xaml.cs",
@@ -172,12 +179,11 @@
               "RelativeToolTip": "View\\ServerWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T17:54:24.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T17:54:24.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BindableCommand.cs",
               "DocumentMoniker": "D:\\Client\\ViewModel\\Helpers\\BindableCommand.cs",
               "RelativeDocumentMoniker": "ViewModel\\Helpers\\BindableCommand.cs",
@@ -185,12 +191,11 @@
               "RelativeToolTip": "ViewModel\\Helpers\\BindableCommand.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAmwCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T16:47:31.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T16:47:31.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "BindingHelper.cs",
               "DocumentMoniker": "D:\\Client\\ViewModel\\Helpers\\BindingHelper.cs",
               "RelativeDocumentMoniker": "ViewModel\\Helpers\\BindingHelper.cs",
@@ -198,21 +203,7 @@
               "RelativeToolTip": "ViewModel\\Helpers\\BindingHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T16:48:04.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TcpServerViewModel.cs",
-              "DocumentMoniker": "D:\\Client\\ViewModel\\TcpServerViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModel\\TcpServerViewModel.cs",
-              "ToolTip": "D:\\Client\\ViewModel\\TcpServerViewModel.cs",
-              "RelativeToolTip": "ViewModel\\TcpServerViewModel.cs",
-              "ViewState": "AQIAAPUAAAAAAAAAAAAAwCsBAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T17:54:24.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T16:48:04.071Z"
             },
             {
               "$type": "Document",
@@ -224,8 +215,7 @@
               "RelativeToolTip": "ViewModel\\TcpClientViewModel.cs",
               "ViewState": "AQIAAHUAAAAAAAAAAAAiwLEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T17:54:24.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T17:54:24.892Z"
             },
             {
               "$type": "Document",

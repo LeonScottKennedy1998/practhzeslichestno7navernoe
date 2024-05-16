@@ -167,7 +167,6 @@ namespace Client.ViewModel
 
                     string message = Encoding.UTF8.GetString(buffer, 0, received);
 
-                    // Обрабатываем команду /disconnect
                     if (message.Trim().Equals("/disconnect", StringComparison.OrdinalIgnoreCase))
                     {
                         DisconnectClient(client);
